@@ -1,0 +1,1 @@
+##Hello! I'm Jaine, a passionate programming enthusiast, currently focused on specializing in frontend development.
